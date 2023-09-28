@@ -1,7 +1,6 @@
 package com.ozguc.mvc.service.concretes;
 
 import com.ozguc.mvc.dto.ClubDto;
-import com.ozguc.mvc.models.Club;
 import com.ozguc.mvc.repository.ClubRepository;
 import com.ozguc.mvc.service.abstracts.ClubService;
 import org.springframework.beans.factory.annotation.Autowired;
