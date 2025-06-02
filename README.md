@@ -38,7 +38,7 @@ A Spring Boot MVC application for managing clubs and their information with user
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ozgucdlg/Club-Management-System.git>
    cd mvc
    ```
 
